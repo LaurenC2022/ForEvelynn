@@ -32,3 +32,8 @@ Explore our website here: [Insert website link]
 
 ## 📧 **Get in Touch**
 For inquiries, support, or partnership opportunities, please contact us at: [Your Email]
+
+Resources: 
+
+[Website Vision](./vision.md)
+[Content Creation Guidelines](./content_creation_rubric.md)
