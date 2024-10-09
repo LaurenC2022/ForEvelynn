@@ -37,3 +37,7 @@ Resources:
 
 [Website Vision](./vision.md)
 [Content Creation Guidelines](./content_creation_rubric.md)
+
+Who is this for: 
+
+I am writing this for my daughter and any woman who mother did know how to teach this to them. Womanhood is full of ups and downs. This blog is a collection of life hacks to make navigating life easier so you can focus on what makes you you! 
